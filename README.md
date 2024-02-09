@@ -39,6 +39,10 @@
 
 ### Statistics
 <details>
+  <summary>See statistics</summary>
+
+  <br>
+  
   <p align="center">
     <a href="https://github.com/ItsHungg">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsHungg&theme=github_dark" />
