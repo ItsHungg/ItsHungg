@@ -31,6 +31,7 @@
 
 ### Projects
 <a href="https://github.com/ItsHungg/JetClicker"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/ItsHungg/JetClicker.png" width="325"></a>
+<a href="https://github.com/ItsHungg/JetClicker-lite"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/ItsHungg/JetClicker-lite.png" width="325"></a>
 <a href="https://github.com/ItsHungg/Stringify"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/ItsHungg/Stringify.png" width="325"></a>
 <a href="https://github.com/ItsHungg/Cryptography"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/ItsHungg/Cryptography.png" width="325"></a>
 <a href="https://github.com/ItsHungg/Bouncify"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/ItsHungg/Bouncify.png" width="325"></a>
@@ -45,21 +46,22 @@
   
   <p align="center">
     <a href="https://github.com/ItsHungg">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsHungg&theme=github_dark" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsHungg&theme=github_dark">
     </a>
     <a href="https://github.com/ItsHungg">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItsHungg&theme=github_dark" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItsHungg&theme=github_dark">
     </a>
     <a href="https://github.com/ItsHungg">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ItsHungg&theme=github_dark" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ItsHungg&theme=github_dark">
     </a>
     <a href="https://github.com/ItsHungg">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsHungg&theme=github_dark" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsHungg&theme=github_dark">
     </a>
     <a href="https://github.com/ItsHungg">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ItsHungg&theme=github_dark&utcOffset=8" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ItsHungg&theme=github_dark&utcOffset=8">
     </a><br>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ItsHungg&theme=github-dark&border_radius=5&card_width=680" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ItsHungg&theme=github-dark&border_radius=5&card_width=680" alt="GitHub Streak"></a><br><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=ItsHungg&theme=onedark&no-frame=False&row=1&margin-w=20&no-bg=true">
   </p>
   
 </details>
